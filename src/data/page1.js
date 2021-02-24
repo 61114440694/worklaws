@@ -16,9 +16,9 @@ function page1() {
                 style={x}
                 src="https://images.unsplash.com/photo-1589627461407-6257b1acf0fd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlf%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
               />
-            </center>
+            
     
-            <center><p><b>วัตถุดิบทำเพ้นเค้ก</b></p></center>
+            <p><b>วัตถุดิบทำเพ้นเค้ก</b></p>
             <ul>
             <li>แป้งสาลีอเนกประสงค์ 100 กรัม</li>
             <li>น้ำตาล 2 ช้อนโต๊ะ</li>
@@ -31,7 +31,7 @@ function page1() {
     
     
     
-            <center><p><b>วิธีทำ</b></p></center>
+            <p><b>วิธีทำ</b></p>
             <ul>
             <li>นำแป้งสาลี น้ำตาล เกลือ ผงฟูทำขนมปัง เทใส่ชาม แล้วกวนให้เข้ากัน</li>
             <li>ตอกไข่ กับ เทนมวัว ตามลงไป จากนั้นกวนให้ทุกอย่างเข้ากัน และมีความนุ่มขึ้น</li>
@@ -42,6 +42,7 @@ function page1() {
             <li>พลิกแพนเค้กไปมา จนแพนเค้กมีสีน้ำตาลอ่อนๆ </li>
             <li>พร้อมเสิร์ฟได้เลย!</li>
             </ul>
+            </center>
           </div>
         </div>
       );
