@@ -9,6 +9,7 @@ function App() {
   return (
     <Router h={h}>
         <Route exact path="/" component={Main} />
+        <Route exact path="/worklaws" component={Main} />
         <Route path="/P1" component={page1} />
         <Route path="/p2" component={page2} />
         <Route path="/P3" component={page3} />
