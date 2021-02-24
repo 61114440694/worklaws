@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/worklaws/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/worklaws/static/js/main.ea90b2f9.chunk.js",
-    "main.js.map": "/worklaws/static/js/main.ea90b2f9.chunk.js.map",
+    "main.js": "/worklaws/static/js/main.7a71a074.chunk.js",
+    "main.js.map": "/worklaws/static/js/main.7a71a074.chunk.js.map",
     "runtime-main.js": "/worklaws/static/js/runtime-main.5da1206e.js",
     "runtime-main.js.map": "/worklaws/static/js/runtime-main.5da1206e.js.map",
     "static/js/2.75bf0473.chunk.js": "/worklaws/static/js/2.75bf0473.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5da1206e.js",
     "static/js/2.75bf0473.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ea90b2f9.chunk.js"
+    "static/js/main.7a71a074.chunk.js"
   ]
 }
